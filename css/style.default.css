@@ -91,6 +91,11 @@ SOCIAL LINKS
   border-color: #4a7f45;
 }
 
+.social a:hover.line {
+  color: green;
+  border-color: green;
+}
+
 .social a:hover.link {
   color: #871AFF;
   border-color: #871AFF;
