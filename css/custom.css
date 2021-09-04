@@ -2,9 +2,3 @@
 .credit {
   margin-top: 1rem;
 }
-
-@media (max-width: 767px) {
-  .hidden-mobile {
-    display: block;
-  }
-}
