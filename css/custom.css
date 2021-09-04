@@ -17,7 +17,7 @@
 }
 
  
-@media all and (max-width: 767px) {
+@media all and (max-width: 270px) {
   .hidden-mobile {
     display: none;
   }
